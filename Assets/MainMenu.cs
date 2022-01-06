@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    public void PlayAir()
+    public void PlayAir ()
     {
         SceneManager.LoadScene(0);
     }
