@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/airlevel.unity
     guid: e1b3df7bdace77a47b3649f063d691a4
+  - enabled: 1
+    path: Assets/Scenes/TrashTales_SpaceTrash 2019.unity
+    guid: 488726eb1641d1d48afdb91d52b71ce4
+  - enabled: 1
+    path: Assets/Scenes/LandLevel.unity
+    guid: b9aa8b8d048b3714c9d51121df29c90d
   m_configObjects: {}
