@@ -577,9 +577,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 37419624}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &37419626
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -833,9 +841,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 72359733}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &72359736
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1281,9 +1297,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 150718975}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &150718978
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1396,9 +1420,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 151042216}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &151042218
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1651,9 +1683,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 180944055}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &180944057
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2269,9 +2309,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 244218719}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &244218722
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2449,9 +2497,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 264466012}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &264466014
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3061,9 +3117,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 337684887}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &337684889
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3492,9 +3556,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 399414904}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &399414908
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3788,9 +3860,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 440102041}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!1 &458747753
 GameObject:
   m_ObjectHideFlags: 0
@@ -4062,9 +4142,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 493679133}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!4 &500188930 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4144252128789790, guid: 5a675dcfe669d5e4e93d9c677c628ba6,
@@ -4259,9 +4347,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 511946475}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &511946477
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5610,9 +5706,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 662057519}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &662057521
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5733,9 +5837,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 683638914}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &683638916
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6273,9 +6385,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 715183022}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &715183024
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6931,9 +7051,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 819195165}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &819195167
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7036,9 +7164,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 821321230}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &821321232
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7147,9 +7283,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 835927808}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &835927810
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7797,11 +7941,31 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 924656166}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 400, y: 200, z: 20}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &924656169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 924656166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!1 &925481707
 GameObject:
   m_ObjectHideFlags: 0
@@ -8203,9 +8367,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 990235472}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &990235474
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9674,8 +9846,8 @@ MonoBehaviour:
   numberOfLives: 1
   isAlive: 1
   explosionPrefab: {fileID: 0}
-  onLivesGone: 1
-  LevelToLoad: 
+  onLivesGone: 0
+  LevelToLoad: AirLevel
 --- !u!1 &1222165298
 GameObject:
   m_ObjectHideFlags: 0
@@ -12475,9 +12647,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1467056073}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!1 &1468744400
 GameObject:
   m_ObjectHideFlags: 0
@@ -12922,9 +13102,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1499780883}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!1 &1501415463 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1897683988557670, guid: 6e7b5f3a7c64b7343bddbb3a05a18c2c,
@@ -12940,9 +13128,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1501415463}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &1501415466
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13059,9 +13255,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1517611397}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!4 &1517936696 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: c857890d7fe7de148b80a99c670d3b51,
@@ -13179,9 +13383,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1534704554}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &1534704556
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13648,9 +13860,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1633944550}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &1633944552
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14009,9 +14229,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1643667866}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &1643667868
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14133,9 +14361,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1646590654}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!1 &1660717435
 GameObject:
   m_ObjectHideFlags: 0
@@ -14194,9 +14430,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1662491621}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!4 &1666860948 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4000011925246560, guid: f6bcabe29ce92584f8125c196a931d73,
@@ -14373,9 +14617,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1692992506}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &1692992508
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14709,9 +14961,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1707478687}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &1707478689
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16032,9 +16292,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1816041630}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!1001 &1829606245
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16199,9 +16467,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1830353859}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &1830353861
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16766,9 +17042,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1888086593}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!65 &1888086595
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17142,9 +17426,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1920814032}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e634f5a16f5de5489d241942e3bf0e9, type: 3}
+  m_Script: {fileID: 11500000, guid: c101b7b06c87ce245901f4380a3cc3d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageAmount: 10
+  damageOnTrigger: 1
+  damageOnCollision: 0
+  continuousDamage: 0
+  continuousTimeBetweenHits: 0
+  destroySelfOnImpact: 0
+  delayBeforeDestroy: 0
+  explosionPrefab: {fileID: 0}
 --- !u!1001 &1936714685
 PrefabInstance:
   m_ObjectHideFlags: 0
