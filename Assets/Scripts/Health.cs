@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class Health : MonoBehaviour {
@@ -67,7 +67,7 @@ public class Health : MonoBehaviour {
 	
 	public void ApplyDamage(float amount)
 	{	
-       		healthPoints = healthPoints - amount;	
+		healthPoints = healthPoints - amount;	
 	}
 	
 	public void ApplyHeal(float amount)
