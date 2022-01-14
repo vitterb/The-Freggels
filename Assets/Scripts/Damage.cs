@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 
 public class Damage : MonoBehaviour {
@@ -19,7 +19,7 @@ public class Damage : MonoBehaviour {
 	void OnTriggerEnter(Collider collision)						// used for things like bullets, which are triggers.  
 	{
 		if (damageOnTrigger) {
-			if (collision.gameObject.tag == "Player")	// if the player got hit with it's own bullets, ignore it
+			if (this.tag == "PlayerBullet" && collision.gameObject.tag == "Player")	// if the player got hit with it's own bullets, ignore it
 				return;
 		
 			if (collision.gameObject.GetComponent<Health> () != null) {	// if the hit object has the Health script on it, deal damage

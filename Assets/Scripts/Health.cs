@@ -1,9 +1,11 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class Health : MonoBehaviour {
 	
 	public enum deathAction {loadLevelWhenDead,doNothingWhenDead};
+	
 	
 	public float healthPoints = 1f;
 	public float respawnHealthPoints = 1f;		//base health points
@@ -31,6 +33,7 @@ public class Health : MonoBehaviour {
 		if (LevelToLoad=="") // default to current scene 
 		{
 			LevelToLoad = Application.loadedLevelName;
+			
 		}
 	}
 	
@@ -54,7 +57,8 @@ public class Health : MonoBehaviour {
 				switch(onLivesGone)
 				{
 				case deathAction.loadLevelWhenDead:
-					Application.LoadLevel (LevelToLoad);
+						//SceneManager.LoadScene (LevelToLoad);
+						Application.LoadLevel(LevelToLoad);
 					break;
 				case deathAction.doNothingWhenDead:
 					// do nothing, death must be handled in another way elsewhere

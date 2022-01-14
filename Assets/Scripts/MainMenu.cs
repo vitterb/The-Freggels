@@ -13,4 +13,13 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene(2);
     }
+    public void PlayLand()
+    {
+        SceneManager.LoadScene(3);
+    }
+    public void ExitGame()
+    {
+        Application.Quit();
+        Debug.Log("Exit game");
+    }
 }
