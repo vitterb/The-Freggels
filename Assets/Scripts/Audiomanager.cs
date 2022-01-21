@@ -19,8 +19,12 @@ public class Audiomanager : MonoBehaviour
 
     public void ChangeMusic ( AudioClip music)
     {
+        if (BackgroundMusic.clip.name == music.name)
+            return;
         BackgroundMusic.Stop();
         BackgroundMusic.clip = music;
         BackgroundMusic.Play(); 
     }
 }
+
+// code by Gamesplusjames
