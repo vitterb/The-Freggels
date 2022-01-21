@@ -17,6 +17,10 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
+    public void PlayWater()
+    {
+        SceneManager.LoadScene(4);
+    }
     public void ExitGame()
     {
         Application.Quit();
