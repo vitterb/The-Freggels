@@ -37,7 +37,6 @@ public class gamemngrObj : MonoBehaviour
 
     public void UpdateTimerUI()
     {
-        //set timer UI
         secondsCount += Time.deltaTime;
         timerText.text = hourCount + ":" + minuteCount + ":" + (int)secondsCount ;
         if (secondsCount == 10)
@@ -71,21 +70,6 @@ public class gamemngrObj : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        /* switch (gameState)
-         {
-             case GameStates.Playing:
-                 if (!health.isAlive)
-                 {
-                     gameState = GameStates.Gameover;
-                     mainCnvs.SetActive(false);
-                     goCnvs.SetActive(true);
-                 }
-                 break;
-             case GameStates.Gameover:
-                 break;
-             default:
-                 break;
-         }*/
         UpdateTimerUI();
     }
 }
